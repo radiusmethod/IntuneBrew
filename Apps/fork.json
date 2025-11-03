@@ -1,0 +1,23 @@
+{
+  "name": "Fork",
+  "description": "GIT client",
+  "version": "2.58.0",
+  "url": "https://cdn.fork.dev/mac/Fork-2.58.0.dmg",
+  "bundleId": "com.DanPristupov.Fork",
+  "homepage": "https://fork.dev/",
+  "fileName": "Fork-2.58.0.dmg",
+  "type": "app",
+  "sha": "c8024205ef931397737ae848a5f18c1729229c06edaa2520e07cbbf04e968499",
+  "changelog": "https://fork.dev/releasenotes",
+  "previous_version": "2.57.1",
+  "qa_info": {
+    "qa_timestamp": "2025-05-13T08:18:31Z",
+    "qa_result": "Installation successful and verified",
+    "download_status": "success",
+    "sha_status": "verified",
+    "install_status": "success",
+    "verify_status": "app_found",
+    "bundle_id_status": "verified",
+    "installed_version": "2.57.1"
+  }
+}
