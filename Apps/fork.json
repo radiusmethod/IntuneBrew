@@ -1,8 +1,8 @@
 {
   "name": "Fork",
-  "description": "GIT client",
-  "version": "2.58.0",
-  "url": "https://cdn.fork.dev/mac/Fork-2.58.0.dmg",
+  "description": "A fast and friendly git client",
+  "version": "2.59.0",
+  "url": "https://cdn.fork.dev/mac/Fork-2.59.0.dmg",
   "bundleId": "com.DanPristupov.Fork",
   "homepage": "https://fork.dev/",
   "fileName": "Fork-2.59.0.dmg",
