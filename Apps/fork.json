@@ -5,11 +5,11 @@
   "url": "https://cdn.fork.dev/mac/Fork-2.58.0.dmg",
   "bundleId": "com.DanPristupov.Fork",
   "homepage": "https://fork.dev/",
-  "fileName": "Fork-2.58.0.dmg",
+  "fileName": "Fork-2.59.0.dmg",
   "type": "app",
-  "sha": "c8024205ef931397737ae848a5f18c1729229c06edaa2520e07cbbf04e968499",
+  "sha": "f505ec587b1d5ff736a9e12af53585263e57efa1d50bab1d831364c6c8ad212b",
   "changelog": "https://fork.dev/releasenotes",
-  "previous_version": "2.57.1",
+  "previous_version": "2.58.0",
   "qa_info": {
     "qa_timestamp": "2025-05-13T08:18:31Z",
     "qa_result": "Installation successful and verified",
@@ -18,6 +18,6 @@
     "install_status": "success",
     "verify_status": "app_found",
     "bundle_id_status": "verified",
-    "installed_version": "2.57.1"
+    "installed_version": "2.58.0"
   }
 }
