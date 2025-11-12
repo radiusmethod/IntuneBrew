@@ -1,0 +1,10 @@
+{
+  "name": "AppGate SDP Client for macOS",
+  "description": "Software-defined perimeter for secure network access",
+  "version": "6.5.3",
+  "url": "https://bin.appgate-sdp.com/6.5/client/Appgate-SDP-6.5.3-Installer.dmg",
+  "bundleId": "com.appgate.pkg.appgatetun.component",
+  "homepage": "https://www.appgate.com/support/software-defined-perimeter-support",
+  "fileName": "Appgate-SDP-6.5.3-Installer.dmg",
+  "type": "pkg_in_dmg"
+}
