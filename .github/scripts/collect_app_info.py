@@ -516,7 +516,8 @@ pkg_in_dmg_urls = [
     "https://formulae.brew.sh/api/cask/adobe-acrobat-pro.json",
     "https://formulae.brew.sh/api/cask/openvpn-connect.json",
     "https://formulae.brew.sh/api/cask/chrome-remote-desktop-host.json",
-    "https://formulae.brew.sh/api/cask/crashplan.json"
+    "https://formulae.brew.sh/api/cask/crashplan.json",
+    "https://formulae.brew.sh/api/cask/appgate-sdp-client.json"
 ]
 
 # PKG in PKG URLs
