@@ -6,5 +6,7 @@
   "bundleId": "com.appgate.pkg.appgatetun.component",
   "homepage": "https://www.appgate.com/support/software-defined-perimeter-support",
   "fileName": "Appgate-SDP-6.5.3-Installer.dmg",
-  "type": "pkg_in_dmg"
+  "sha": "a3ce60ab9bfe838201c749ae22cbcad2e7c2d5348d5b17b8f0c33d109946d57e",
+  "type": "pkg_in_dmg",
+  "previous_version": "6.5.3"
 }
