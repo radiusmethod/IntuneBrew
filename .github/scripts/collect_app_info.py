@@ -503,6 +503,8 @@ homebrew_cask_urls = [
     "https://formulae.brew.sh/api/cask/rotato.json",
     "https://formulae.brew.sh/api/cask/tenable-nessus-agent.json",
     "https://formulae.brew.sh/api/cask/8x8-work.json"
+    "https://formulae.brew.sh/api/cask/fork.json",
+    "https://formulae.brew.sh/api/cask/handbrake.json",
 ]
 
 # PKG in DMG URLs
@@ -557,6 +559,7 @@ pkg_urls = [
     "https://formulae.brew.sh/api/cask/cloudflare-warp.json",
     "https://formulae.brew.sh/api/cask/cisco-jabber.json",
     "https://formulae.brew.sh/api/cask/microsoft-auto-update.json",
+    "https://formulae.brew.sh/api/cask/aws_session_manager_plugin.json"
 ]
 
 # Custom scraper scripts to run
